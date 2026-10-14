@@ -1,0 +1,64 @@
+# Website FAQ & Lead Capture Agent
+
+> A chat box for a local service business’s own website that answers visitor questions from the business’s own hours, prices, and services, and captures a name and number when it cannot answer. $49 flat, one payment, no monthly fee.
+
+Website FAQ & Lead Capture Agent is a product by Northbeam Builds, a small studio in Austin, TX that builds websites and AI tools for local service businesses. Company site: https://northbeambuilds.com
+
+## What it is
+
+Website FAQ & Lead Capture Agent — for shop owners whose website can’t answer a single question: it’s a chat box on your site that answers from your own hours, prices, and services, and takes a name and number when it can’t answer, so visitors become leads instead of leaving.
+
+## Who it is for
+
+For: Your shop has a website that just sits there.; You’re tired of answering the same five questions.; You’re losing evening and weekend visitors who never call.
+Not for: You don’t have a website yet — start with Website + Online Booking.; You need chat in lots of places, with conversations built around your business.
+
+## Price
+
+$49 flat — one payment, no monthly fee. (Regular price $149.) If we can’t get it live on your site as described, you don’t pay.
+Buy online (Stripe checkout): https://buy.stripe.com/aFa4gz04s19ifIS3J4gYU01
+
+## How it works
+
+1. A visitor lands on your website with a question — hours, prices, what you fix.
+2. The chat box answers right away, using your own business info. It never makes answers up.
+3. If it can’t answer, it asks for a name and number — and that lead lands in your inbox.
+
+## What is included
+
+- The chat box set up on your website.
+- Answers built from your own pages and info.
+- Lead capture with name and number.
+- Every lead sent to your inbox.
+- Most are live within two business days.
+- If we can’t get it live on your site as described, you don’t pay.
+
+## Questions and answers
+
+- Q: Where do the answers come from?
+  A: Your own website and the info you give us — your hours, prices, services, and service area. If the answer isn’t there, the box says so and takes a message instead of guessing.
+- Q: What happens when it can’t answer?
+  A: It asks for a name and number and sends you the lead. Nothing falls through.
+- Q: Does it work on my kind of website?
+  A: Almost always. If your site can carry a small chat box, we can set it up. We’ll tell you before you pay if yours can’t.
+- Q: Is there a monthly fee?
+  A: No. $49 once. That’s it.
+
+## Links
+
+- Home: https://faqagent.northbeambuilds.com/
+- Pricing: https://faqagent.northbeambuilds.com/pricing/
+- FAQ: https://faqagent.northbeambuilds.com/faq/
+- Contact: https://faqagent.northbeambuilds.com/contact/
+- Concept demo (not a client): https://northbeambuilds.com/demos/edsels/
+
+## Contact
+
+Email: northbeambuilds@gmail.com (a person replies within one business day)
+
+## Other Northbeam Builds products
+
+- [Never-Miss-a-Lead](https://nevermiss.northbeambuilds.com/) — instant replies to missed calls and website forms
+- [Website + Online Booking](https://booking.northbeambuilds.com/) — a website customers can book on
+- [AI Chatbot](https://chatbot.northbeambuilds.com/) — custom chat answers in more places than a website
+- [AI Phone Receptionist](https://receptionist.northbeambuilds.com/) — a voice that answers your phone when you can’t

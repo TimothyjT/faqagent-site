@@ -523,6 +523,7 @@
   .btn.secondary:hover { background: var(--amber); color: #1a1204; }
 }
 .buy-note { margin-top: 12px; font-size: 0.92rem; color: var(--ink-soft); }
+.trial-note { margin-top: 10px; font-size: 0.92rem; line-height: 1.55; color: var(--ink-soft); }
 .contact-card {
   background: var(--surface);
   border: 2px solid var(--navy);

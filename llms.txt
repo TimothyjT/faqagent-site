@@ -17,11 +17,12 @@ Not for: You don’t have a website yet — start with Website + Online Booking.
 
 $49 flat — one payment, no monthly fee. (Regular price $149.) Live on your site as described, or your $49 comes back in full — guaranteed.
 Buy online (Stripe checkout): https://buy.stripe.com/aFa4gz04s19ifIS3J4gYU01
+Before you pay: this agent runs on hosting we are still standing up, so it cannot go live yet and the go-live clock has not started. Once the hosting is in place, the clock runs exactly as stated on this page.
 
 ## How it works
 
 1. A visitor lands on your website with a question — hours, prices, what you fix.
-2. The chat box answers right away, using your own business info. It never makes answers up.
+2. The chat box answers right away, using your own business info. If the answer isn’t there, the box says so and takes a message instead of guessing.
 3. If it can’t answer, it asks for a name and number — and the lead is saved for you in your lead view.
 
 ## What is included
@@ -38,7 +39,7 @@ Buy online (Stripe checkout): https://buy.stripe.com/aFa4gz04s19ifIS3J4gYU01
 - Q: Where do the answers come from?
   A: Your own website and the info you give us — your hours, prices, services, and service area. If the answer isn’t there, the box says so and takes a message instead of guessing.
 - Q: What happens when it can’t answer?
-  A: It asks for a name and number and sends you the lead. Nothing falls through.
+  A: It asks for a name and number. Every lead lands in your private lead view right away; an optional push to a webhook you control, or email via your own mail relay, can be arranged at setup.
 - Q: Does it work on my kind of website?
   A: Almost always. If your site can carry a small chat box, we can set it up. We’ll tell you before you pay if yours can’t.
 - Q: Is there a monthly fee?

@@ -11,27 +11,27 @@ Website FAQ & Lead Capture Agent — for shop owners whose website can’t answe
 ## Who it is for
 
 For: Your shop has a website that just sits there.; You’re tired of answering the same five questions.; You’re losing evening and weekend visitors who never call.
-Not for: You don’t have a website yet — start with Website + Online Booking.; You need chat in lots of places, with conversations built around your business.
+Not for: You don’t have a website yet — start with Website + Online Booking.; You need a bigger question set, with conversations built around your business.
 
 ## Price
 
-$49 flat — one payment, no monthly fee. (Regular price $149.) If we can’t get it live on your site as described, you don’t pay.
+$49 flat — one payment, no monthly fee. (Regular price $149.) Live on your site as described, or your $49 comes back in full — guaranteed.
 Buy online (Stripe checkout): https://buy.stripe.com/aFa4gz04s19ifIS3J4gYU01
 
 ## How it works
 
 1. A visitor lands on your website with a question — hours, prices, what you fix.
 2. The chat box answers right away, using your own business info. It never makes answers up.
-3. If it can’t answer, it asks for a name and number — and that lead lands in your inbox.
+3. If it can’t answer, it asks for a name and number — and the lead is saved for you in your admin view.
 
 ## What is included
 
 - The chat box set up on your website.
 - Answers built from your own pages and info.
 - Lead capture with name and number.
-- Every lead sent to your inbox.
+- Every lead in your admin view right away; email delivery wired and test-proven at setup.
 - Most are live within two business days.
-- If we can’t get it live on your site as described, you don’t pay.
+- Live on your site as described, or your $49 comes back in full — guaranteed.
 
 ## Questions and answers
 
@@ -60,5 +60,5 @@ Email: northbeambuilds@gmail.com (a person replies within one business day)
 
 - [Never-Miss-a-Lead](https://nevermiss.northbeambuilds.com/) — instant replies to missed calls and website forms
 - [Website + Online Booking](https://booking.northbeambuilds.com/) — a website customers can book on
-- [AI Chatbot](https://chatbot.northbeambuilds.com/) — custom chat answers in more places than a website
+- [AI Chatbot](https://chatbot.northbeambuilds.com/) — a custom chat agent, built around your business
 - [AI Phone Receptionist](https://receptionist.northbeambuilds.com/) — a voice that answers your phone when you can’t

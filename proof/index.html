@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Hill Country Gutter Co. — Gutter Cleaning &amp; Guards, Austin</title>
+<!--
+  TEST FIXTURE page for the SiteSays live-proof (2026-10-14) — published copy.
+  This copy points the widget at this origin, which serves the embed script
+  but no answering service, so the widget shows its can't-load message with
+  the business phone: the graceful-degradation path, on the public origin.
+  The full working loop (answers, lead capture, owner email notification)
+  was proven with this same fixture and script against the service running
+  on Northbeam's test machine — record: the deploy kit's live-proof/PROOF.md.
+  This page plays the role of a customer's existing website. It is
+  deliberately hostile to an embedded widget:
+   - global CSS with !important that would wreck a non-isolated widget
+     (every button red/yellow at 32px, dark green-on-black inputs, every
+     div outlined, Comic Sans everywhere, content-box sizing);
+   - host globals named like widget internals (askQuestion, $, SiteSays
+     NOT pre-defined — the widget must own its one namespace);
+   - a sentinel element whose computed style the test records before and
+     after the widget loads and is used — it must not move a pixel.
+  The business is fictional (see the footer note).
+-->
+<style>
+  * { box-sizing: content-box !important; }
+  body { font-family: "Comic Sans MS", "Comic Neue", cursive; color: #333; margin: 0; }
+  button { background: #ee1111 !important; color: #ffff00 !important; font-size: 32px !important; border-radius: 0 !important; }
+  input, textarea { background: #222 !important; color: #00ff00 !important; }
+  div { outline: 3px dashed orange; }
+  #sentinel { color: rgb(12, 34, 56); font-size: 17px; background: rgb(250, 243, 220); padding: 6px; }
+  main { max-width: 760px; margin: 0 auto; padding: 24px 16px 80px; }
+</style>
+<script>
+  // Host-page scripts with names a careless widget might collide with.
+  window.askQuestion = function () { return "HOST askQuestion — widget must not call this"; };
+  window.$ = function () { return "HOST $ — widget must not use this"; };
+  window.__hostSentinel = "host-page";
+</script>
+</head>
+<body>
+<main>
+  <h1>Hill Country Gutter Co.</h1>
+  <p id="sentinel">Gutter cleaning, gutter guards, and small repairs across the Austin area. One-story cleaning $129, two-story $179. Guards $9 a foot installed.</p>
+  <p>We work Monday to Friday, 8 to 5, and Saturday mornings. Closed Sundays. Call or text (512) 555-0119.</p>
+  <h2>What we do</h2>
+  <p>Debris out, downspouts flushed, before-and-after photos texted to you when we finish. If a gutter we cleaned clogs again within 90 days, we come back and clear it free.</p>
+  <p><button type="button" onclick="document.getElementById('sentinel').dataset.clicked='yes'">A normal host-page button</button></p>
+  <p style="font-size:13px;color:#666">Test fixture page for the SiteSays embed proof — fictional business, not a real company site. The chat box at the bottom right is the product being proven. On this published copy the answering service is not running, so opening it shows the can't-load message with the phone number — the same thing a visitor would see if a real install's service went down.</p>
+</main>
+
+<!-- The customer's one-line install: one script tag, loaded cross-origin. -->
+<script src="https://faqagent.northbeambuilds.com/proof/sitesays-embed.js"
+        data-sitesays-endpoint="https://faqagent.northbeambuilds.com/proof"
+        data-sitesays-site="hill-country-gutter"
+        data-sitesays-name="Hill Country Gutter Co."
+        data-sitesays-phone="(512) 555-0119"
+        async></script>
+</body>
+</html>

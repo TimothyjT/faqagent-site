@@ -22,15 +22,15 @@ Buy online (Stripe checkout): https://buy.stripe.com/aFa4gz04s19ifIS3J4gYU01
 
 1. A visitor lands on your website with a question — hours, prices, what you fix.
 2. The chat box answers right away, using your own business info. It never makes answers up.
-3. If it can’t answer, it asks for a name and number — and the lead is saved for you in your admin view.
+3. If it can’t answer, it asks for a name and number — and the lead is saved for you in your lead view.
 
 ## What is included
 
 - The chat box set up on your website.
 - Answers built from your own pages and info.
 - Lead capture with name and number.
-- Every lead in your admin view right away; email delivery wired and test-proven at setup.
-- Most are live within two business days.
+- Every lead in your private lead view right away; optional push to a webhook you control, or email via your own mail relay, arranged at setup.
+- Live 1 business day after payment, your content, and site access are all in — whichever comes last starts the clock.
 - Live on your site as described, or your $49 comes back in full — guaranteed.
 
 ## Questions and answers

@@ -63,3 +63,5 @@ Email: northbeambuilds@gmail.com (a person replies within one business day)
 - [Website + Online Booking](https://booking.northbeambuilds.com/) — a website customers can book on
 - [AI Chatbot](https://chatbot.northbeambuilds.com/) — a custom chat agent, built around your business
 - [AI Phone Receptionist](https://receptionist.northbeambuilds.com/) — a voice that answers your phone when you can’t
+- [Review Autopilot](https://reviews.northbeambuilds.com/) — an audit of your public reviews, with recovery and reply drafts you approve before anything is sent
+- [No-Show Guard](https://noshowguard.northbeambuilds.com/) — deposit-gated booking with email reminders for appointment businesses

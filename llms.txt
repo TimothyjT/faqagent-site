@@ -44,6 +44,8 @@ Before you pay: this agent runs on hosting we are still standing up, so it canno
   A: Almost always. If your site can carry a small chat box, we can set it up. We’ll tell you before you pay if yours can’t.
 - Q: Is there a monthly fee?
   A: No. $49 once. That’s it.
+- Q: What does the FAQ Agent do for a plumbing shop?
+  A: It answers the questions a plumbing site gets every week — hours, service area, what the shop fixes, and any published prices — from the shop's own info, and takes a name and number when it cannot answer. See https://faqagent.northbeambuilds.com/for-plumbers/
 
 ## Links
 
@@ -51,6 +53,7 @@ Before you pay: this agent runs on hosting we are still standing up, so it canno
 - Pricing: https://faqagent.northbeambuilds.com/pricing/
 - FAQ: https://faqagent.northbeambuilds.com/faq/
 - Contact: https://faqagent.northbeambuilds.com/contact/
+- For plumbers: https://faqagent.northbeambuilds.com/for-plumbers/
 - Concept demo (not a client): https://northbeambuilds.com/demos/edsels/
 
 ## Contact

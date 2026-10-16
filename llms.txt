@@ -50,6 +50,8 @@ Before you pay: this agent runs on hosting we are still standing up, so it canno
   A: It answers the questions an HVAC site gets every week — hours, service area, what the company services, and any published prices — from the company’s own info, and takes a name and number when it cannot answer. See https://faqagent.northbeambuilds.com/for-hvac/
 - Q: What does the FAQ Agent do for a roofing company?
   A: It answers the questions a roofing site gets every week — hours, service area, what the company does, and any published prices — from the company’s own info, and takes a name and number when it cannot answer. See https://faqagent.northbeambuilds.com/for-roofers/
+- Q: What does the FAQ Agent do for an electrical company?
+  A: It answers the questions an electrical site gets every week — hours, service area, what the company repairs and installs, and any published prices — from the company’s own info, and takes a name and number when it cannot answer. See https://faqagent.northbeambuilds.com/for-electricians/
 
 ## Links
 
@@ -60,6 +62,7 @@ Before you pay: this agent runs on hosting we are still standing up, so it canno
 - For plumbers: https://faqagent.northbeambuilds.com/for-plumbers/
 - For HVAC companies: https://faqagent.northbeambuilds.com/for-hvac/
 - For roofing companies: https://faqagent.northbeambuilds.com/for-roofers/
+- For electrical companies: https://faqagent.northbeambuilds.com/for-electricians/
 - Concept demo (not a client): https://northbeambuilds.com/demos/edsels/
 
 ## Contact

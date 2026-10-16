@@ -24,7 +24,7 @@ contact/index.html    northbeambuilds@gmail.com card + buy button
 { demos/index.html    Concept demo (links to northbeambuilds.com/demos/<name>/, labeled "Concept demo — not a client") — delete this line if no demo }
 llms.txt              Plain-language product summary for LLM search
 assets/site.css       Shared design system (from the flagship product site)
-assets/site.js        Header nav toggle + FAQ chat widget (carried over from the company site)
+assets/site.js        Header nav toggle only — chat widget stripped 2026-10-16 (see DEAD-WIDGET-BRIEF-2026-10-16.md)
 CNAME                 faqagent.northbeambuilds.com
 robots.txt, sitemap.xml
 ```

@@ -52,6 +52,8 @@ Before you pay: this agent runs on hosting we are still standing up, so it canno
   A: It answers the questions a roofing site gets every week — hours, service area, what the company does, and any published prices — from the company’s own info, and takes a name and number when it cannot answer. See https://faqagent.northbeambuilds.com/for-roofers/
 - Q: What does the FAQ Agent do for an electrical company?
   A: It answers the questions an electrical site gets every week — hours, service area, what the company repairs and installs, and any published prices — from the company’s own info, and takes a name and number when it cannot answer. See https://faqagent.northbeambuilds.com/for-electricians/
+- Q: What does the FAQ Agent do for a pest control company?
+  A: It answers the questions a pest control site gets every week — hours, service area, what the company treats, and any published prices — from the company’s own info, and takes a name and number when it cannot answer. See https://faqagent.northbeambuilds.com/for-pest-control/
 
 ## Links
 
@@ -63,6 +65,7 @@ Before you pay: this agent runs on hosting we are still standing up, so it canno
 - For HVAC companies: https://faqagent.northbeambuilds.com/for-hvac/
 - For roofing companies: https://faqagent.northbeambuilds.com/for-roofers/
 - For electrical companies: https://faqagent.northbeambuilds.com/for-electricians/
+- For pest control companies: https://faqagent.northbeambuilds.com/for-pest-control/
 - Concept demo (not a client): https://northbeambuilds.com/demos/edsels/
 
 ## Contact

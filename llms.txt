@@ -31,7 +31,7 @@ Before you pay: this agent runs on hosting we are still standing up, so it canno
 - Answers built from your own pages and info.
 - Lead capture with name and number.
 - Every lead in your private lead view right away; optional push to a webhook you control, or email via your own mail relay, arranged at setup.
-- Live 1 business day after payment, your content, and site access are all in — whichever comes last starts the clock.
+- Live 1 business day after payment, your content, site access, and the hosting in place are all in — whichever comes last starts the clock.
 - Live on your site as described, or your $49 comes back in full — guaranteed.
 
 ## Questions and answers

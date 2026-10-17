@@ -75,6 +75,7 @@ Before you pay: this agent runs on hosting we are still standing up, so it canno
 - For garage door companies: https://faqagent.northbeambuilds.com/for-garage-doors/
 - For cleaning companies: https://faqagent.northbeambuilds.com/for-cleaning/
 - For salons: https://faqagent.northbeambuilds.com/for-salons/
+- Compare the FAQ Agent and the AI Chatbot: https://northbeambuilds.com/compare/faq-agent-vs-chatbot/
 - Concept demo (not a client): https://northbeambuilds.com/demos/edsels/
 
 ## Contact

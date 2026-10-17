@@ -58,6 +58,8 @@ Before you pay: this agent runs on hosting we are still standing up, so it canno
   A: It answers the questions a garage door site gets every week — hours, service area, what the company repairs and installs, and any published prices — from the company’s own info, and takes a name and number when it cannot answer. See https://faqagent.northbeambuilds.com/for-garage-doors/
 - Q: What does the FAQ Agent do for a cleaning company?
   A: It answers the questions a cleaning site gets every week — hours, service area, what the company cleans, and any published prices — from the company’s own info, and takes a name and number when it cannot answer. See https://faqagent.northbeambuilds.com/for-cleaning/
+- Q: What does the FAQ Agent do for a salon?
+  A: It answers the questions a salon site gets every week — hours, location, what the salon does, and any published prices — from the salon’s own info, and takes a name and number when it cannot answer. See https://faqagent.northbeambuilds.com/for-salons/
 
 ## Links
 
@@ -72,6 +74,7 @@ Before you pay: this agent runs on hosting we are still standing up, so it canno
 - For pest control companies: https://faqagent.northbeambuilds.com/for-pest-control/
 - For garage door companies: https://faqagent.northbeambuilds.com/for-garage-doors/
 - For cleaning companies: https://faqagent.northbeambuilds.com/for-cleaning/
+- For salons: https://faqagent.northbeambuilds.com/for-salons/
 - Concept demo (not a client): https://northbeambuilds.com/demos/edsels/
 
 ## Contact

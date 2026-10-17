@@ -56,6 +56,8 @@ Before you pay: this agent runs on hosting we are still standing up, so it canno
   A: It answers the questions a pest control site gets every week — hours, service area, what the company treats, and any published prices — from the company’s own info, and takes a name and number when it cannot answer. See https://faqagent.northbeambuilds.com/for-pest-control/
 - Q: What does the FAQ Agent do for a garage door company?
   A: It answers the questions a garage door site gets every week — hours, service area, what the company repairs and installs, and any published prices — from the company’s own info, and takes a name and number when it cannot answer. See https://faqagent.northbeambuilds.com/for-garage-doors/
+- Q: What does the FAQ Agent do for a cleaning company?
+  A: It answers the questions a cleaning site gets every week — hours, service area, what the company cleans, and any published prices — from the company’s own info, and takes a name and number when it cannot answer. See https://faqagent.northbeambuilds.com/for-cleaning/
 
 ## Links
 
@@ -69,6 +71,7 @@ Before you pay: this agent runs on hosting we are still standing up, so it canno
 - For electrical companies: https://faqagent.northbeambuilds.com/for-electricians/
 - For pest control companies: https://faqagent.northbeambuilds.com/for-pest-control/
 - For garage door companies: https://faqagent.northbeambuilds.com/for-garage-doors/
+- For cleaning companies: https://faqagent.northbeambuilds.com/for-cleaning/
 - Concept demo (not a client): https://northbeambuilds.com/demos/edsels/
 
 ## Contact
